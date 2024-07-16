@@ -7,10 +7,17 @@ I'm a passionate developer based in Bareilly, specializing in web development an
 - 👯 I’m looking to collaborate on Various projects.
 - 💬 Ask me about Any Topic.
 - 😄 Pronouns: She/her
-- 📫 How to reach me: 👇
+- 📫 How to reach me: 🤝
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyshriya10@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](textto:shriya-pandey-3b713323b)
+<p align="center">
+  <a href="mailto:pandeyshriya10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/shriya-pandey-3b713323b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 ### 🚀 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shriya-pandey08&show_icons=true&theme=radical)
