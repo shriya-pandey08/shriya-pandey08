@@ -6,12 +6,11 @@ I'm a passionate developer based in Bareilly, specializing in web development an
 - 🌱 I’m currently learning HTML, CSS, JS, NODEJS, JAVA, PYTHON, GIT, SQL.
 - 👯 I’m looking to collaborate on Various projects.
 - 💬 Ask me about Any Topic.
-- 📫 How to reach me: pandeyshriya10@gmail.com
 - 😄 Pronouns: She/her
+- 📫 How to reach me: 👇
 
-###
-### Reach Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyshriya10@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](textto:shriya-pandey-3b713323b)
 ### 🚀 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shriya-pandey08&show_icons=true&theme=radical)
