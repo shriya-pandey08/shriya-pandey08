@@ -30,7 +30,6 @@ I'm a passionate developer based in Bareilly, specializing in web development an
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
 </p>
-   HTML, CSS, JS, NODEJS, JAVA, PYTHON, GIT, SQL.
    
 - 👯 I’m looking to collaborate on Various projects.
 - 💬 Ask me about Any Topic.
