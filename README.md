@@ -4,7 +4,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+ <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAApJJREFUSEu1lD1oFEEUx9+b3SVFdGYuGDT3FUW0ET9Q0SpFBD8KwcbCQquAEBARYiCliI2NQsAqIDZCQLERGyMpVDCiICIoCkHu9oyBE293LiR3l9v965ocxGiy55kMDAO7M+/33v//ZpjWefA6x6eWAZ6XP6Z19nFcgi0BgNeOMZv7lcoMrwvA89zzQoTvpex+vuYAz8sfJOJ+rTN9ccGj//8kkTHuIECnhbBPAuFOAJoIL5TKfF8J1jTA9wvXiOiQZdXOBYE9TMQ3lMq8jKuiKYAxbh+AASn5gDF8G6AHWqfvxQVvWiLPc68zI69U9pbvF6bDkI4nEum3awYolQr7LAtnpMwM+b776Kc8UspULzPX4yBNSRQFMSY/YNs8Wq1athDBJDN6pcw+WzNAFMjzcke17h7zPHdEqcoF5h3V6Lvvu4cBfNM6O7kcuGIF5XJuVxBYpwBxV+uuAjMH0eHoFpfLSVWvz80HgQwBoLMzXzVmy/0wFBcTiWRuKWRFgDH5HoAGAf7ATHO/Z8YeEerMYkzK1MeFKvI3AfFQ6/R4U4BoU7FY3Og4c2eVyowsNdSYqU1BgEwikXqz6E8PwEekTF9lZjQNAGCXy+4lgDcAtFsI6gConQjTgJhwnPBOENg1oL5Nqeyrvxke20Wzs26qUqnNdHRs9+M6piWA77snABoioui96fh1O5m6iGhUyvSV5ZLEdlGp9FkL4VwGwqeOE75rb9/6daF7YPn+1F6i+ZJS3TlmDhvBIq/a2mrJhuGreuB5X/Yzh9HDFo1Pi5mLP8tHwMwVgKpEXCLChG0HM42EGvtX9SAy2fen9gChXJBG2MzoiiZASaJoZSMEimFojWudehIrUStGrnYmtov+F/gDYsgkKAsPk7kAAAAASUVORK5CYII="/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
