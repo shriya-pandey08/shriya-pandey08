@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Build Status](https://img.shields.io/travis/username/repository/master.svg)
-![Coverage](https://img.shields.io/codecov/c/github/username/repository.svg)
+![Build Status](https://img.shields.io/travis/shriya-pandey08
+/
+shriya-pandey08/master.svg)
+![Coverage](https://img.shields.io/codecov/c/github/shriya-pandey08
+/
+shriya-pandey08.svg)
