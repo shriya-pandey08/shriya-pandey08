@@ -56,7 +56,5 @@ I'm a passionate developer based in Bareilly, specializing in web development an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya-pandey08&layout=compact&theme=radical)
 
-### 🛡️ Badges
-
 
 
