@@ -12,9 +12,12 @@ I'm a passionate developer based in Bareilly, specializing in web development an
 <p align="center">
   <a href="mailto:pandeyshriya10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  </a><hr>
   <a href="https://www.linkedin.com/in/shriya-pandey-3b713323b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a><br>
+  <a href="https://discord.com/channels/shriya2233_77450">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
