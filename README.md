@@ -3,7 +3,19 @@
 
 I'm a passionate developer based in Bareilly, specializing in web development and eager to explore new technologies. Here's a glimpse into what keeps me busy:
 
-- 🌱 I’m currently learning HTML, CSS, JS, NODEJS, JAVA, PYTHON, GIT, SQL.
+- 🌱 I’m currently learning: 📖
+  <p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  </a>
+</p>
+   HTML, CSS, JS, NODEJS, JAVA, PYTHON, GIT, SQL.
 - 👯 I’m looking to collaborate on Various projects.
 - 💬 Ask me about Any Topic.
 - 😄 Pronouns: She/her
