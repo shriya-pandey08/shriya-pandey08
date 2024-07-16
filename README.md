@@ -18,6 +18,5 @@ I'm a passionate Web developer. Specializing in web development technologies and
 
 ### 🛡️ Badges
 
-![Build Status](https://img.shields.io/travis/shriya-pandey08/shriya-pandey08/master.svg)
-![Coverage](https://img.shields.io/codecov/c/github/shriya-pandey08/shriya-pandey08.svg)
+
 
