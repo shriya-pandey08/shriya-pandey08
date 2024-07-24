@@ -29,6 +29,9 @@ I'm a passionate developer, specializing in web development and eager to explore
   <a>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  </a>
 </p>
    
 - 👯 I’m looking to collaborate on Various projects.
