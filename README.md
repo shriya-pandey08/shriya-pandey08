@@ -35,7 +35,7 @@ I'm a passionate developer, specializing in web development and eager to explore
 </p>
    
 - 👯 I’m looking to collaborate on Various projects.
-- 💬 Ask me about Any Topic.
+- 💬 Focused and dedicated
 - 😄 Pronouns: She/her
 - 📫 How to reach me: 🤝
 
