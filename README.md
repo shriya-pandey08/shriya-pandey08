@@ -36,8 +36,8 @@ I'm a passionate developer, specializing in web development and eager to explore
    
 - 👯 I’m looking to collaborate on Various projects.
 - 💬 Focused and dedicated
-- 😄 Pronouns: She/her
-- 📫 How to reach me: 🤝
+- 😄 Pronouns: She/her 
+- 📫 How to reach me: 
 
 <p align="center">
   <a href="mailto:pandeyshriya10@gmail.com">
